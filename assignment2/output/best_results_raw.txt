@@ -1,0 +1,43 @@
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.7726611730490001,
+              'files': ['output//NN_OUTPUT/NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.743809095002,
+        'files': ['output//NN_OUTPUT/NN_GA_50_20_20_LOG.csv']},
+ 'RHC': {'best': 0.749685534591, 'files': ['output//NN_OUTPUT/NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.73023715415,
+        'files': ['output//NN_OUTPUT/NN_SA_0.35_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.7726611730490001,
+              'files': ['output//NN_OUTPUT/NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.743809095002,
+        'files': ['output//NN_OUTPUT/NN_GA_50_20_20_LOG.csv']},
+ 'RHC': {'best': 0.749685534591, 'files': ['output//NN_OUTPUT/NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.73023715415,
+        'files': ['output//NN_OUTPUT/NN_SA_0.35_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.7726611730490001,
+              'files': ['output//NN_OUTPUT/NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.743809095002,
+        'files': ['output//NN_OUTPUT/NN_GA_50_20_20_LOG.csv']},
+ 'RHC': {'best': 0.6983184965379999,
+         'files': ['output//NN_OUTPUT/NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.73023715415,
+        'files': ['output//NN_OUTPUT/NN_SA_0.35_LOG.csv']}}
